@@ -2,7 +2,7 @@
 
 Build
 Gradle
-./gradlew bootRun![Uploading image.png…]()
+./gradlew bootRun
 
 
 Test
