@@ -1,7 +1,6 @@
 # springboot-rest-jsonresponse
 
 Build
-Gradle
 ./gradlew bootRun
 
 
